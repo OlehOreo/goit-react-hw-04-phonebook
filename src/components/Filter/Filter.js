@@ -1,4 +1,5 @@
 import { Search } from './Filter.styled';
+
 export const Filter = ({ filter, onSearchContact }) => {
   return (
     <>
